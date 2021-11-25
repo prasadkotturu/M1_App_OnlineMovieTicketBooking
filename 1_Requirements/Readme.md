@@ -20,6 +20,24 @@ Talking about the features of this Simple system, the user can book movie ticket
 - This project uses different variables and strings for development.
 - Easy to operate and understand.
 
+
+# 4W and 1H
+
+## What
+
+Application that designed to be implemented to book seats in movies. It will helps user to generate invoices for tickets and also helps in doing calculations for ticket price and it will show all the old details of transactions.
+
+## why
+As we know when we go to movies there will be a huge line to book tickets and ther will be a lot of time gets wasted so to book tickets in online is best and fast way to book movie tickets.
+
+## Where
+
+This application can be implement to book movie tickets in online.
+
+## How
+
+The system is firstly asks to enter username and password and after entering that it will asks like to enter show details and to book tickets and it will show the options like old transaction .we use files to store the data and show the data .The operations will done on files are read and write to fetch and store the data. 
+
 ## SWOT ANALYSIS
 ![App Screenshot](https://www.rhythmsystems.com/hs-fs/hubfs/iStock-1134293632.jpg?width=488&name=iStock-1134293632.jpg) 
 
